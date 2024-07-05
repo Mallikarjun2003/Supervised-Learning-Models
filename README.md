@@ -4,11 +4,6 @@
 This project aims to predict survival on the Titanic using machine learning models. It explores various algorithms such as logistic regression, naive Bayes, K-nearest neighbors (KNN), decision trees, support vector machines (SVM), and random forest to analyze and predict survival outcomes based on passenger attributes.
 
 ## Installation
-To run the project, ensure you have Python 3 and pip installed. Clone the repository and install the necessary dependencies:
-
-
-git clone https://github.com/Mallikarjun2003/titanic-survival-prediction.git
-cd titanic-survival-prediction
 
 ## Install Dependencies
 
