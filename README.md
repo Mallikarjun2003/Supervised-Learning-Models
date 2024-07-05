@@ -7,7 +7,7 @@ This project aims to predict survival on the Titanic using machine learning mode
 To run the project, ensure you have Python 3 and pip installed. Clone the repository and install the necessary dependencies:
 
 
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/Mallikarjun2003/titanic-survival-prediction.git
 cd titanic-survival-prediction
 
 ## Install Dependencies
